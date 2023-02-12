@@ -1,5 +1,7 @@
 
-### Olá! Eu sou a Nathália ✌️ ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-barcelos-5b605018a/)
+### Olá! Eu sou a Nathália ✌️ ### 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-barcelos-5b605018a/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaliavicb&hide=javascript,html)
 
