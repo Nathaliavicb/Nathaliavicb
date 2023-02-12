@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Nathália ✌️ ### <br/>
+### Olá! Eu sou a Nathália ✌️ ###
 
 Sou estudante de sistema de informação e estou me desafiando a codar e construir projetinhos. 
 
